@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on automation projects for Networking and learning how to code in general
 - 📫 How to reach me would be to mention me on here. might be awhile cause i don't check my email often so just be patient :)
 
+
+
+ - This is me editing this file to create a new branch. Might need to tidy up the file a bit. 
+
 <!---
 DaedricGuyX/DaedricGuyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
